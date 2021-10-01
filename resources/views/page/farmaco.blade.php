@@ -21,7 +21,7 @@
                         </p><br/>
                         <p class="curriculum-descript" style="color:#ffffff;">
                             Além disso, existem algumas outras medicações que agem na transmissão elétrica ao longo
-                            dos neurônios. Quando bem indicadas tais medicações auxiliam no reequilíbrio bioquímico
+                            dos neurônios. Quando bem indicadas, tais medicações auxiliam no reequilíbrio bioquímico
                             cerebral e, por conseguinte, no fortalecimento de conexões "saudáveis".
                             Em algumas doenças como esquizofrenia e transtorno de humor bipolar, por exemplo,
                             as medicações também evitam um processo de dano bioquímico neuronal progressivo,

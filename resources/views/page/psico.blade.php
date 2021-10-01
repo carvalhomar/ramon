@@ -33,12 +33,12 @@
                                     <br/>
                                     <p class="curriculum-descript">
                                         Depois de um a três encontros tenta-se chegar aos objetivos e às estratégias de ajuda. Decide-se,
-                                        então, com que frequência a dupla se encontrará: se semanalmente, duas ou até mais vezes na semana.
+                                        então, com que frequência a dupla se encontrará: se semanalmente, duas, três ou mais vezes na semana.
                                     </p><br/>
                                     <p class="curriculum-descript">
                                         À medida que o tratamento progride, a pessoa pode passar por momentos de mais e menos ansiedade.
                                         Isso é normal e decorre de movimentos inconscientes. Se a pessoa tolerar essa ansiedade e seguir se tratando,
-                                        progressivamente mudanças vão ocorrendo, especialmente na maneira como o indivíduo percebe a si e aos que o rodeiam,
+                                        progressivamente mudanças vão ocorrendo, especialmente na maneira como ela percebe a si e aos que a rodeiam,
                                         diminuindo sintomas ansiosos e depressivos.
                                     </p><br/>
                                     <p class="curriculum-descript">
@@ -78,15 +78,15 @@
                                         não é ocioso. Na mente do terapeuta um trabalho está sendo feito.
                                     </p><br/>
                                     <p class="curriculum-descript">
-                                        <b>Aconselhamento:</b> o terapeuta não conhece mais a respeito da vida do indivíduo
-                                        que ele mesmo. Também não pode ajudar o outro de acordo com suas ideias e conceitos.
+                                        <b>Aconselhamento:</b> o terapeuta não conhece mais a respeito da vida do indivíduo do que ele mesmo.
+                                        Também não pode ajudar o outro de acordo com suas ideias e conceitos.
                                         Assim, ele dificilmente aconselha, embora isso possa acontecer em circunstâncias esporádicas.
                                         O processo psicoterapêutico tem a ver com maior conhecimento interno do indivíduo,
                                         e não ordens, conselhos ou juízos externos.
                                     </p><br/>
                                     <p class="curriculum-descript">
                                         <b>Confissão:</b> um dos pontos básicos de uma terapia é o de não julgar. Isso não quer dizer que os fatos não são avaliados,
-                                        mas sim que não há um juízo de valor moral a priori. Pelo contrário: muitas vezes a melhora ocorre justamente
+                                        mas sim que não há um juízo de valor moral <i>a priori</i>. Pelo contrário: muitas vezes a melhora ocorre justamente
                                         por ajudar o indivíduo a se aliviar de uma culpa por fatos que só ocorrem em fantasia.
                                     </p>
                                 </div>
@@ -133,12 +133,12 @@
                                     <p class="curriculum-descript">
                                         Não existe uma frequência mínima para se pensar sobre si (fazer análise), mas encontros mais próximos
                                         (3, 4, 5 ou mais sessões na semana) possibilitam pensar sobre as situações acontecendo ao vivo
-                                        (e não apenas as que já aconteceram), com a emoção presente e com maiores possibilidades de autodescobrimentos mais
+                                        (e não apenas as que já aconteceram), com a emoção presente e com maior possibilidade de autodescobrimentos mais
                                         profundos. Deixa-se de apenas relatar e refletir teoricamente para vivenciar as situações e refletir
                                         afetivamente sobre elas.
                                     </p><br/>
                                     <p class="curriculum-descript">
-                                        As ferramentas para esse processo são a disposição da pessoa de relatar o
+                                        As ferramentas para esse processo são a disposição da pessoa para relatar o
                                         mais livremente possível todos os seus pensamentos e sentimentos e a
                                         capacidade de receptividade e de conexão do psicanalista.
                                         Nesse contexto, pode-se também fazer uso do divã, que tem como propósito

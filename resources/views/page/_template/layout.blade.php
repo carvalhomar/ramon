@@ -20,8 +20,8 @@
         <div class="container">
             <!-- LOGO -->
             <a class="navbar-brand brand-logo mr-4" href="#">
-                <img src="{{ URL::asset('assets/images/logo_ramon.png') }}" class="img-fluid logo-light" alt="">
-                <img src="{{ URL::asset('assets/images/logo_ramon.png') }}" class="img-fluid logo-dark" alt="">
+                <img src="{{ URL::asset('assets/images/logo_ramon.png') }}" style="width: 100%;" class="img-fluid logo-light" alt="">
+                <img src="{{ URL::asset('assets/images/logo_ramon.png') }}" style="width: 100%;" class="img-fluid logo-dark" alt="">
             </a>
             <div class="navbar-collapse collapse justify-content-center" id="navbarCollapse">
                 <ul class="navbar-nav navbar-center" id="mySidenav">

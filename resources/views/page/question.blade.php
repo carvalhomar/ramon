@@ -33,7 +33,7 @@
                             </p><br/>
                             <p class="curriculum-descript">
                                 Depois disso faz 3 anos de residência em psiquiatria.
-                                Nessa etapa ele se aprofunda na parte psíquica do indivíduo, seus conflitos,
+                                Nessa etapa ele se aprofunda no estudo da parte psíquica do indivíduo, seus conflitos,
                                 o que lhe traz satisfações e sofrimento e suas possíveis doenças.
                                 Aprende a fazer uso de medicações, chamadas de psicofármacos, e de psicoterapias.
                             </p><br/>
@@ -60,12 +60,13 @@
                                 ou seja, não existe regulamentação que indique ou impeça que alguém se anuncie como
                                 psicanalista, mesmo sem qualquer formação nessa área ou com uma formação mínima.
                                 Existem diversas escolas e instituições de psicanálise no Brasil e no mundo.
-                                A principal diferença entre elas é se são ou não vinculadas à International Psychoanalytical Association (IPA).
+                                Uma das principais diferenças entre elas é se são ou não vinculadas à
+                                <i>International Psychoanalytical Association</i> (Associação Psicanalítica Internacional – IPA).
                                 Essa instituição é atualmente sediada em Londres, foi criada por Freud e seus seguidores e
                                 mostra-se bastante criteriosa na formação dos psicanalistas.
                             </p><br/>
                             <p class="curriculum-descript">
-                                No Brasil existem atualmente 11 sociedades de psicanálise vinculadas à IPA.
+                                No Brasil existem atualmente 13 sociedades de psicanálise vinculadas à IPA.
                                 No Rio Grande do Sul são três: a Sociedade Psicanalítica de Porto Alegre (SPPA),
                                 a Sociedade Brasileira de Psicanálise de Porto Alegre (SBPdePA) e a
                                 Sociedade Psicanalítica de Pelotas (SPPel). Santa Catarina e Paraná ainda não têm sociedades vinculadas à IPA.
