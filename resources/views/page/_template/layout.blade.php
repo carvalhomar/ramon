@@ -47,7 +47,7 @@
             </div>
             <div class="contact_btn" >
 
-                <a href="https://api.whatsapp.com/send?phone=5551984009796" class="btn btn-sm" style="padding: 5px;">(51) 98400-9796</a>
+{{--                <a href="https://api.whatsapp.com/send?phone=5551984009796" class="btn btn-sm" style="padding: 5px;">(51) 98400-9796</a>--}}
 
                 <button class="navbar-toggler ml-2 p-0" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
 
