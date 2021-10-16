@@ -3122,17 +3122,8 @@ button:focus {
 
     @media only screen and (max-width: 479px) {
 
-        .heading{
-            font-size: 28px!important;
-        }
-
-        .para-sec {
-            font-size: 18px!important;
-        }
-
 
         .footer {
-
             padding-top: 50px;
 
         }
@@ -3154,3 +3145,14 @@ button:focus {
         }
 
     }
+
+    @media only screen and (max-width: 340px) {
+        .heading{
+            font-size: 28px!important;
+        }
+
+        .para-sec {
+            font-size: 18px!important;
+        }
+    }
+}
