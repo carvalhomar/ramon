@@ -41,7 +41,7 @@
                                                 RAMON CASTRO REIS
                                             </h2>
 {{--                                            <h1 class="text-white sub-title">Aumente seu pênis</h1>--}}
-                                            <p class="para-sec" style="font-size: 23px!important">
+                                            <p class="para-sec" style="font-size: 23px">
                                                 PSIQUIATRA E PSICOTERAPEUTA<br/>
 
                                                 MESTRE EM CIÊNCIAS DA SAÚDE PELA UFCSPA<br/>

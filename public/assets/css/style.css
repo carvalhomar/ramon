@@ -3146,13 +3146,16 @@ button:focus {
 
     }
 
-    @media only screen and (max-width: 340px) {
+    @media only screen and (max-width:310px) {
         .heading{
-            font-size: 28px!important;
+            font-size: 18px!important;
         }
 
         .para-sec {
-            font-size: 18px!important;
+            font-size: 12px!important;
         }
+
     }
+
+
 }
