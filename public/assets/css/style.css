@@ -902,10 +902,10 @@ button:focus {
 
 
 .home-bg .heading {
-
+    font-weight: 100!important;
     color: #fff;
 
-    font-size: 60px;
+    font-size: 30px;
 
     line-height: 60px;
 

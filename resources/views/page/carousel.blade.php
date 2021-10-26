@@ -14,7 +14,7 @@
                                     </div>
                                     <div class="col-md-7">
                                         <div class="content-fadeInUp">
-                                            <h2 class="heading" style="font-family: "Arial narrow"; font-size: 40px;">
+                                            <h2 class="heading" style="font-family: 'Arial narrow'; font-size: 30px; text-align:center"">
                                                 CONSULTÓRIO MÉDICO DE PSIQUIATRIA, PSICOTERAPIA E PSICANÁLISE
                                             </h2>
 
@@ -37,7 +37,7 @@
                                     </div>
                                     <div class="col-md-7">
                                         <div class="content-fadeInUp">
-                                            <h2 class="heading" style="font-family: "Arial narrow"; font-size: 45px;">
+                                            <h2 class="heading" style="font-family: 'Arial narrow'; font-size: 30px;">
                                                 RAMON CASTRO REIS
                                             </h2>
 {{--                                            <h1 class="text-white sub-title">Aumente seu pênis</h1>--}}
@@ -70,7 +70,7 @@
 {{--                                                Ramon Castro Reis--}}
 {{--                                            </h2>--}}
 
-                                            <h2 class="heading" style="font-family: "Arial narrow"; font-size: 40px;">
+                                            <h2 class="heading" style="font-family: 'Arial narrow'; font-size: 30px; text-align:center">
 {{--                                                Atendimento para adolescentes, adultos e idosos.<br/>--}}
                                                 HORA MARCADA, RESERVADA E CONTATO DIRETO COM O PROFISSIONAL
 
