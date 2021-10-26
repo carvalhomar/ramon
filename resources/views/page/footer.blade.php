@@ -81,7 +81,7 @@
                 <h5 class="footer-title">Contato</h5>
 
                 <ul class="footer-menu list-unstyled mb-0 mt-4 contact-menu-list">
-                    <li><i class="icofont-phone"></i><a href="tel:+555130227462">(51) 98400-9796</a></li>
+                    <li><i class="icofont-phone"></i><a href="tel:+5551984009796">(51) 98400-9796</a></li>
 
                     <li>
 
