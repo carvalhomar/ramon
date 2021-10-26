@@ -916,7 +916,7 @@ button:focus {
 
 
 .home-bg .para-sec {
-
+    font-family: "Arial narrow";
     font-size: 20px;
 
     color: rgba(255, 255, 255, 0.85);
@@ -3144,18 +3144,15 @@ button:focus {
 
         }
 
-    }
-
-    @media only screen and (max-width:480px) {
         .heading{
             font-size: 14px!important;
         }
 
         .para-sec {
+
             font-size: 12px!important;
         }
 
     }
-
 
 }
