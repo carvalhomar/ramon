@@ -3146,7 +3146,7 @@ button:focus {
 
     }
 
-    @media only screen and (max-width:410px) {
+    @media only screen and (max-width:480px) {
         .heading{
             font-size: 14px!important;
         }
