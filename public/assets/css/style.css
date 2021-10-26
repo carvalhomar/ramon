@@ -3146,9 +3146,9 @@ button:focus {
 
     }
 
-    @media only screen and (max-width:310px) {
+    @media only screen and (max-width:410px) {
         .heading{
-            font-size: 18px!important;
+            font-size: 14px!important;
         }
 
         .para-sec {
