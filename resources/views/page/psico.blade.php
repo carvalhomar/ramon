@@ -1,4 +1,4 @@
-<section class="section our-team active inverse-bg" id="psico">
+<section class="our-team section inverse-bg active" id="psico">
 
     <div class="container">
         <div class="row">
@@ -6,8 +6,8 @@
                 <div class="section-title text-center mb-4">
                     <h2>Psicoterapia e Psicanálise</h2>
                     <p class="section-subtitle mx-auto"></p>
-                    <div id="accordion" class="faq-panel " data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-name: fadeInUp;">
-                        <div class="question-box ">
+                    <div id="accordion" class="faq-panel wow fadeInUp" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-name: fadeInUp;">
+                        <div class="question-box shadow-sm">
                             <div class="faq-header p-0" id="headingOne">
                                 <h4 class="mb-0">
                                     <button class="btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
@@ -17,7 +17,7 @@
                                 </h4>
                             </div>
 
-                            <div id="collapseOne" class="collapse " aria-labelledby="headingOne" data-parent="#accordion" style="">
+                            <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion" style="">
                                 <div class="faq-body">
                                     <img style="float: right; padding-left:35px;" src="assets/images/psicoterapia2_ramon.jpeg" />
                                     <p class="curriculum-descript">
@@ -56,7 +56,7 @@
                         <div class="question-box " style="visibility: visible; animation-name: fadeInUp;">
                             <div class="faq-header p-0" id="headingTwo">
                                 <h4 class="mb-0">
-                                    <button class="btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    <button class="btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTree">
                                         <span>O que não é psicoterapia</span>
                                         <span><i class="icofont-rounded-down caret-icon"></i></span>
                                     </button>
@@ -96,7 +96,7 @@
                         <div class="question-box " style="visibility: visible; animation-name: fadeInUp;">
                             <div class="faq-header p-0" id="headingThree">
                                 <h4 class="mb-0">
-                                    <button class="btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    <button class="btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
                                         <span>O que é psicanálise</span>
                                         <span><i class="icofont-rounded-down caret-icon"></i></span>
                                     </button>

@@ -9,8 +9,8 @@
             <div class="col-md-4">
 
                 <div class="foot-logo">
-{{--                    <img src="{{ URL::asset('assets/images/logo-revita.png') }}" class="mt-2" alt="">--}}
-                    <h5  class="footer-title">Ramon Castro Reais</h5>
+                    {{--                    <img src="{{ URL::asset('assets/images/logo-revita.png') }}" class="mt-2" alt="">--}}
+                    <h5  class="footer-title">Ramon Castro Reis</h5>
                 </div>
 
                 <p class="mt-4 text-left ftr-about"></p>
@@ -30,11 +30,11 @@
                             </a>
                         </li>
 
-{{--                        <li class="list-inline-item">--}}
-{{--                            <a href="https://www.youtube.com/channel/UCLn9Rn5mVr-OKeUcHRSbhTQ?sub_confirmation=1" class="social-icon"style="padding-top: 10px;">--}}
-{{--                                <i class="icofont-youtube-play"></i>--}}
-{{--                            </a>--}}
-{{--                        </li>--}}
+                        {{--                        <li class="list-inline-item">--}}
+                        {{--                            <a href="https://www.youtube.com/channel/UCLn9Rn5mVr-OKeUcHRSbhTQ?sub_confirmation=1" class="social-icon"style="padding-top: 10px;">--}}
+                        {{--                                <i class="icofont-youtube-play"></i>--}}
+                        {{--                            </a>--}}
+                        {{--                        </li>--}}
 
                         <li class="list-inline-item">
                             <a href="https://www.instagram.com/ramon_castro_reis/" class="social-icon" style="padding-top: 10px;">
@@ -42,11 +42,11 @@
                             </a>
                         </li>
 
-{{--                        <li class="list-inline-item">--}}
-{{--                            <a href="https://www.linkedin.com/in/honorio-sampaio-9225235/" class="social-icon" style="padding-top: 10px;">--}}
-{{--                                <i class="icofont-linkedin"></i>--}}
-{{--                            </a>--}}
-{{--                        </li>--}}
+                        {{--                        <li class="list-inline-item">--}}
+                        {{--                            <a href="https://www.linkedin.com/in/honorio-sampaio-9225235/" class="social-icon" style="padding-top: 10px;">--}}
+                        {{--                                <i class="icofont-linkedin"></i>--}}
+                        {{--                            </a>--}}
+                        {{--                        </li>--}}
 
                     </ul>
 
@@ -98,7 +98,7 @@
 
                     </li>
 
-{{--                    <li><i class="icofont-envelope"></i><a href="mailto:ramoncastroreis@yahoo.com.br">ramoncastroreis@yahoo.com.br</a></li>--}}
+                    {{--                    <li><i class="icofont-envelope"></i><a href="mailto:ramoncastroreis@yahoo.com.br">ramoncastroreis@yahoo.com.br</a></li>--}}
 
                 </ul>
 
