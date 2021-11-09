@@ -7,7 +7,7 @@
                         <br/>
                         <br/>
                         <h2 class="title" style="color:#ffffff;">Farmacoterapia</h2>
-                        <p style="color:#ffffff;" class="section-subtitle mx-auto">Qual é o princípio do uso de medicações</p>
+{{--                        <p style="color:#ffffff;" class="section-subtitle mx-auto">Qual é o princípio do uso de medicações</p>--}}
                         <br/>
                         <div id="accordion" class="faq-panel wow fadeInUp" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-name: fadeInUp;">
                             <div class="question-box shadow-sm">
