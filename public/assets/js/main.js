@@ -122,7 +122,7 @@ $(document).ready(function () {
     /*---- MOBILE FOOTER TOGGLE -----*/
     (function ($) {
         var contentwidth = jQuery(window).width();
-        if ((contentwidth) < '575') {
+        if ((contentwidth) < '600') {
             $(".footer-title")[1].remove();
             setTimeout(()=>{
                 jQuery('.footer-title').append('<i class="icofont-circled-down"></i>');
