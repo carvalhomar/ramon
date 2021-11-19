@@ -13,7 +13,7 @@
             <div class="col-md-12">
                 <div id="accordion" class="faq-panel wow fadeInUp" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-name: fadeInUp;">
                     <div class="question-box shadow-sm">
-                        <div class="faq-header p-0" id="headingOne">
+                        <div class="faq-header p-0" id="headingFour">
                             <h4 class="mb-0">
                                 <button class="btn-link" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
                                     <span>Quais as diferenças entre psiquiatra, psicólogo e psicanalista?</span>

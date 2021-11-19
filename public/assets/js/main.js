@@ -123,16 +123,25 @@ $(document).ready(function () {
     (function ($) {
         var contentwidth = jQuery(window).width();
         if ((contentwidth) < '575') {
-            jQuery('.footer-title').append('<i class="icofont-circled-down"></i>');
-            jQuery('.footer-title').click(function () {
-                jQuery('.footer-title').removeClass('active');
-                jQuery('.footer-menu').slideUp('normal');
-                if (jQuery(this).next().is(':hidden') == true) {
-                    jQuery(this).addClass('active');
-                    jQuery(this).next().slideDown('normal');
-                }
-            });
-            jQuery('.footer-content').hide();
+            $(".footer-title")[1].remove();
+            setTimeout(()=>{
+                jQuery('.footer-title').append('<i class="icofont-circled-down"></i>');
+                jQuery('.icofont-circled-down')[0].remove();
+                jQuery('.footer-menu')[0].remove();
+
+                jQuery('.footer-menu').show();
+
+                jQuery('.footer-title').on('click',function () {
+                    jQuery('.footer-title').removeClass('active');
+                    jQuery('.footer-menu').slideUp('normal');
+                        if (jQuery(this).next().is(':hidden') == true) {
+                    jQuery('.footer-title').addClass('active');
+                    jQuery('.footer-title').next().slideDown('normal');
+                        }
+                });
+                jQuery('.footer-content').show();
+            }, 2000);
+
         } else {
             jQuery('.footer-content').show();
         }

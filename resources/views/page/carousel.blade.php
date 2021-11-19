@@ -8,7 +8,7 @@
                             <div class="item">
                                 <div class="row align-items-center">
                                     <div class="col-md-5">
-                                        <div class="img-fadeInRight">
+                                        <div class="">
                                             <img style="width: 50%;" src="{{ URL::asset('assets/images/ramon-foto.png') }}" />
                                         </div>
                                     </div>
@@ -31,7 +31,7 @@
                             <div class="item">
                                 <div class="row align-items-center">
                                     <div class="col-md-5">
-                                        <div class="img-fadeInRight">
+                                        <div class="">
                                             <img style="width: 50%;" src="{{ URL::asset('assets/images/ramon-foto.png') }}">
                                         </div>
                                     </div>
@@ -60,7 +60,7 @@
                             <div class="item">
                                 <div class="row align-items-center">
                                     <div class="col-md-5">
-                                        <div class="img-fadeInRight">
+                                        <div class="">
                                             <img style="width: 50%;" src="{{ URL::asset('assets/images/ramon-foto.png') }}">
                                         </div>
                                     </div>
