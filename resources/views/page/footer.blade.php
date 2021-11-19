@@ -19,7 +19,7 @@
 
                     <ul class="footer-social list-inline mt-4">
                         <li class="list-inline-item">
-                            <a href="tel:5551984009796" class="social-icon" style="padding-top: 10px;">
+                            <a href="tel:51984009796" class="social-icon" style="padding-top: 10px;">
                                 <i class="icofont-phone"></i>
                             </a>
                         </li>
