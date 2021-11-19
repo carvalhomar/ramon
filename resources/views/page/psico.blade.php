@@ -100,16 +100,16 @@
                     </div>
                     {{--Colapse 3 --}}
                     <div class="question-box shadow-sm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
-                        <div class="faq-header p-0" id="headingThree">
+                        <div class="faq-header p-0">
                             <h4 class="mb-0">
                                 <button class="btn-link collapsed" data-toggle="collapse" data-target="#multiCollapseExample3" aria-expanded="true" aria-controls="multiCollapseExample3">
                                     <span>O que é psicanálise</span>
-                                    <span><i class="icofont-rounded-down caret-icon"></i></span>
+                                    <span><i class="icofont-rounded-up caret-icon"></i></span>
                                 </button>
                             </h4>
                         </div>
 
-                        <div id="multiCollapseExample3" class="collapse multi-collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                        <div id="multiCollapseExample3" class="collapse multi-collapse show" >
                             <div class="faq-body">
                                 <img style="float: right; padding-left:35px;" src="assets/images/img_ramon_duvidas2.jpeg" />
                                 <p class="curriculum-descript">

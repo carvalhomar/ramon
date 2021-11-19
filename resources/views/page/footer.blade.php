@@ -18,7 +18,11 @@
                 <div class="mt-4">
 
                     <ul class="footer-social list-inline mt-4">
-
+                        <li class="list-inline-item">
+                            <a href="tel:5551984009796" class="social-icon" style="padding-top: 10px;">
+                                <i class="icofont-phone"></i>
+                            </a>
+                        </li>
                         <li class="list-inline-item">
                             <a href="https://api.whatsapp.com/send?phone=5551984009796&text=" class="social-icon" style="padding-top: 10px;">
                                 <i class="icofont-whatsapp"></i>
@@ -81,10 +85,12 @@
                 <h5 class="footer-title">Contato</h5>
 
                 <ul class="footer-menu list-unstyled mb-0 mt-4 contact-menu-list">
-                    <li><i class="icofont-phone"></i><a href="https://api.whatsapp.com/send?phone=5551984009796">(51) 98400-9796</a></li>
+                    <li>
+                        <i class="icofont-phone"></i>
+                        <a href="https://api.whatsapp.com/send?phone=5551984009796">(51) 98400-9796</a>
+                    </li>
 
                     <li>
-
                         <i class="icofont-location-pin"></i>
 
                         <a href="https://www.google.com/maps">
@@ -94,8 +100,6 @@
                             <br>
                             Porto Alegre | RS
                         </a>
-                    </li>
-
                     </li>
 
                     {{--                    <li><i class="icofont-envelope"></i><a href="mailto:ramoncastroreis@yahoo.com.br">ramoncastroreis@yahoo.com.br</a></li>--}}
@@ -110,7 +114,7 @@
                         <span class="text-white font-weight-bold">
                             Ramon Castro Reis.
                         </span>
-                        Desenvolvido por Devwev
+                        Desenvolvido por Devwev.
                     </p>
                 </div>
             </div>
