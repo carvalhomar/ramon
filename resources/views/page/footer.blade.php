@@ -112,7 +112,7 @@
                 <div class="footer-desc mt-4 pt-4">
                     <p class="mb-0 text-center footer-script">
                         <span class="text-white font-weight-bold">
-                            Ramon Castro Reis. ,,,
+                            Ramon Castro Reis. 
                         </span>
                         Desenvolvido por Devwev.
                     </p>
@@ -122,3 +122,13 @@
     </div>
 
 </footer>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5YZ7W3LPGJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5YZ7W3LPGJ');
+</script>
