@@ -7,6 +7,7 @@ use App\Http\Controllers\MailController;
 use App\Http\Controllers\UserController;
 use App\Http\Controllers\UserTypeController;
 use App\Http\Controllers\LoginController;
+use App\Http\Controllers\SiteController;
 use Illuminate\Support\Facades\Auth;
 
 /*
@@ -20,9 +21,10 @@ use Illuminate\Support\Facades\Auth;
 |
 */
 // Load index page from PageController in the index method
-Route::get('/',function (){
-    return view('page.index');
-})->name('home');
+Route::get('/',[SiteController::class, 'index'])->name('home');
+Route::get('/ips',[SiteController::class, 'ips'])->name('ips');
+
+
 Route::get('/treatment/article/{id}/{title}', [ContentController::class, 'showContent']);
 Route::get('/blog/article/{id}/{name}', [ContentController::class, 'showBlog']);
 

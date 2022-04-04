@@ -35,7 +35,13 @@ return [
     */
 
     'channels' => [
-        'stack' => [
+        'ips' => [
+            'driver' => 'single',
+            'path' => storage_path('logs/ips.log'),
+            'level' => env('LOG_LEVEL', 'debug'),
+        ],
+
+       'stack' => [
             'driver' => 'stack',
             'channels' => ['single'],
             'ignore_exceptions' => false,
