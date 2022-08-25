@@ -94,9 +94,9 @@
                         <i class="icofont-location-pin"></i>
 
                         <a href="https://www.google.com/maps">
-                            R. Dr. Florêncio Ygartua, 391, sala 507
+                            Rua Mariante, 284, sala 503.
                             <br>
-                            Moinhos de Vento
+                            Rio Branco
                             <br>
                             Porto Alegre | RS
                         </a>
